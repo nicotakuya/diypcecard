@@ -4,6 +4,8 @@
 
 PC Engine homebrew.
 
+4Mbit Flash memory card.
+
 ## files
 
 pce_card1.comp : memory card's PCB CAD data(CADLUS X).
